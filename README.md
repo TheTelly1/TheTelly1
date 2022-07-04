@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheTelly1
+- 👋 Hi, I’m TheTrouper
 - 👀 I’m a minecraft skripter and server developer for OgreStupe.minehut.gg or discord.gg/ogre
 - 🌱 I’m currently learning SkriptLang, https://github.com/SkriptLang/Skript/releases
 - 📫 You can reach me through TheTrouper#6969 on discord or in discord.gg/ogre
