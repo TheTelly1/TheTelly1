@@ -6,8 +6,8 @@
 * I am obvWolf, the Owner of [OgreDupe](https://discord.com/ogre)
 * I was previously know as WolfBro, and TheTelly
 * I like to build and code for my server
- * I am currently learning [SkriptLang](https://github.com/SkriptLang/Skript/releases)
- * I build for [iPearlPvP (ImproperIssues)](https://github.com/itzispyder/ItziSpyder)
+  * I am currently learning [SkriptLang](https://github.com/SkriptLang/Skript/releases)
+  * I build for [iPearlPvP (ImproperIssues)](https://github.com/itzispyder/ItziSpyder)
 * I have created some skripts for 1.17.1-1.19, if you find any bugs please tell me!
 * Skripts made with love from Texas!
 
