@@ -14,7 +14,7 @@
 ## Socials
 > **Discord:** `TheTrouper#6969`
 
-> **YouTube** (OgreNet Support)](https://www.youtube.com/channel/UCHOnowgT74IMd4oruya3UOg)
+> **YouTube** [OgreNet Support](https://www.youtube.com/channel/UCHOnowgT74IMd4oruya3UOg)
 
 > **Email:** `ogrestupeshared@gmail.com`
 
