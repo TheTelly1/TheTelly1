@@ -1,25 +1,34 @@
-## 
 
-# TheTrouper (obvWolf)
-## Who am I?
-
-* I am obvWolf, a server & plugin developer
-* I was previously know as WolfBro, and TheTelly
-* I like to build and code for my server
-  * [SkriptLang](https://github.com/SkriptLang/Skript/releases)
-  * Java
-  * Learning HTML/CSS
-  * Up Next: Javascript
-* I have created some skripts for 1.17.1-1.19, if you find any bugs please tell me!
-* Skripts made with love from Texas!
-
-## Socials
-> **Discord:** `@obvwolf`
-
-> **YouTube** [OgreNet Support](https://www.youtube.com/channel/UCHOnowgT74IMd4oruya3UOg)
-
-> **Email:** `wolf@trouper.me`
-
-### You may also want to check out:
-
-* ImpropperIssues https://github.com/ItziSpyder (TY for the plugins and the readme idea)
+`biofetch -l archbtw`
+---
+ ```
+                   -`                     ╔═════════════════════════════
+                  .o+`                    ║         root@obvwolf
+                 `ooo/                    ║-----------------------------
+                `+oooo:                   ║ OS: he/him
+               `+oooooo:                  ║ Host: homosapian_caucasian 
+               -+oooooo+:                 ║ Kernel: autism_asexual
+             `/:-:++oooo+:                ║ Uptime: 17y
+            `/++++/+++++++:               ║ Packages (4):
+           `/+ i use arch +:              ║  │ Java
+          `/+++oo btw oooooo/`            ║  │ HTML
+         ./ooosssso++osssssso+`           ║  │ CSS
+        .oossssso-^``^/ossssss+`          ║  └ Skript
+       -osssssso.      :ssssssso.         ║ Shell: PAC
+      :osssssss/        osssso+++.        ║ Display: 20:35 @ 60Hz
+     /ossssssss/        +ssssooo/-        ║ CPU: IPS v11-06 [21st]
+    /ossssso+/:-        -:/+osssso+-      ║ GPU: OL-VC [Virtual] 
+   +sso+:-`                 `.-/+oso:     ║ Disk (/): 940 TiB / 2.5 PiB
+  ++:.                           `-/+/    ║ Locale: en_US.UTF-16
+ /.`                                 `/   ╚═════════════════════════════
+```
+---
+## Welcome to my GitHub!
+I am a Minecraft server developer with over 4 years of experience
+- Novice Java & Web developer (Check out [my website](https://trouper.me)) `trouper.me`
+- I develop Bukkit Plugins, Discord Bots, and Web APIs
+- I like to play Minecraft and code in my free time
+### Contacts
+My primary method of communication is discord.
+- Discord `@obvwolf`
+- Email `wolf@trouper.me`
