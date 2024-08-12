@@ -7,7 +7,7 @@
                  `ooo/                    ║-----------------------------
                 `+oooo:                   ║ OS: he/him
                `+oooooo:                  ║ Host: homosapian_caucasian 
-               -+oooooo+:                 ║ Kernel: kernel_1-0
+               -+oooooo+:                 ║ Kernel: ase_asd
              `/:-:++oooo+:                ║ Uptime: 17y
             `/++++/+++++++:               ║ Packages (4):
            `/+ i use arch +:              ║  │ Java
@@ -17,7 +17,7 @@
        -osssssso.      :ssssssso.         ║ Shell: PAC
       :osssssss/        osssso+++.        ║ Display: 20:35 @ 60Hz
      /ossssssss/        +ssssooo/-        ║ CPU: IPS v11-06 [21st]
-    /ossssso+/:-        -:/+osssso+-      ║ GPU: OL-VC [Virtual] 
+    /ossssso+/:-        -:/+osssso+-      ║ GPU: OL-VC [Virtual]
    +sso+:-`                 `.-/+oso:     ║ Disk (/): 940 TiB / 2.5 PiB
   ++:.                           `-/+/    ║ Locale: en_US.UTF-16
  /.`                                 `/   ╚═════════════════════════════
