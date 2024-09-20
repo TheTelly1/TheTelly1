@@ -7,7 +7,7 @@
                  `ooo/                    ║-----------------------------
                 `+oooo:                   ║ OS: he/him
                `+oooooo:                  ║ Host: homosapian_caucasian 
-               -+oooooo+:                 ║ Kernel: ase_asd
+               -+oooooo+:                 ║ Kernel: aroase_asd
              `/:-:++oooo+:                ║ Uptime: 17y
             `/++++/+++++++:               ║ Packages (4):
            `/+ i use arch +:              ║  │ Java
